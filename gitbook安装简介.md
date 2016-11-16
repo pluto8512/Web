@@ -15,3 +15,4 @@
 11.复制这本书的Settings点击GitHub里面的Webhook URL里面的地址复制(地址B)
 12.切换到GitHub页面里面新建Repository项目详情的settings页面add Webhooks,plyLoad里面填地址B
 ![](/assets/8.bmp)
+13.绑定完成
