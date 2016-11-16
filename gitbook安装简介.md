@@ -6,3 +6,4 @@
 5. 在GitHub首页new repository
 ![](/assets/4.bmp)
 6. 注意"Initialize this repository with a README"要勾选
+7. 用GitHub账号登录GitBook(www.gitbook.com)官网
