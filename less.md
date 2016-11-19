@@ -5,3 +5,8 @@
 
 3. 确保有下面这两个文件夹
 ![](/assets/22.bmp)
+
+4. 确保npm文件夹里面有这四个文件
+![](/assets/23.bmp)
+
+5. 确保node_modules里面有less文件
