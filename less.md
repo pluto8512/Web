@@ -31,3 +31,27 @@ header {
 
  }
 ```
+```css
+//函数,rem适配,可以看出argument是px,($px/40px)相除之后是一个没有单位的数字,*1rem后就加上了单位rem.
+
+@function torem($px){//$px为需要转换的字号
+
+ @return $px / 40px * 1rem; //40px为根字体大小
+
+}
+
+header {
+
+ display: block;
+
+ width: torem(750px);
+
+ height: torem(30px);
+
+ font-size: torem(20px);
+
+ background: red;
+
+}
+
+```
