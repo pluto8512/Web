@@ -16,7 +16,7 @@
 ###sass与less的区别
 ####主要针对rem适配的时候用less和sass语法上的区别
 ```css
-//这是less的写法,750rem/@font-size,即使单位不一样,这个也不会报错
+//这是less的写法,750rem/@font-size,即使单位不一样,这个也不会报错,但是sass会报错
 @font-size : 75px;
 
 header {
@@ -30,7 +30,4 @@ header {
  background: red;
 
  }
-
-
-
 ```
