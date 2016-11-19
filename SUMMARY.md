@@ -6,7 +6,9 @@
     * [移动端事件](移动端事件.md)
     * [轮播图](轮播图.md)
     * [倒计时](倒计时.md)
-    * [less](less.md)
+    * [less和sass的使用区别](less.md)
+* [ps的切图和微调](ps的切图和微调.md)
+    * [切图](切图.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
 

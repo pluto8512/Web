@@ -10,3 +10,6 @@
 ![](/assets/23.bmp)
 
 5. 确保node_modules里面有less文件
+
+*由于sass的安装说明我放在别的文件夹里面了,我就不在这里重复讲了
+###sass
