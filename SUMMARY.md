@@ -7,6 +7,7 @@
     * [轮播图](轮播图.md)
     * [倒计时](倒计时.md)
     * [less和sass的使用区别](less.md)
+    * [移动开发rem布局背景图片的处理](移动开发rem布局背景图片的处理.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
     * [html,css布局经验](htmlcss布局经验.md)
