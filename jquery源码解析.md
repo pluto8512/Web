@@ -19,5 +19,6 @@ syntaxerror:语法错误
 自定义异常
 ```
 function tag(tagName){
-return document.getEkementsByTagName(tagName);}
+return document.getEkementsByTagName(tagName);
+}
 ```
