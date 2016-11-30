@@ -113,5 +113,26 @@ foo.sayHello();
 >独有的数据和独有的行为应该放在对象中
 
 ####继承
+1. 针对构造函数而言,原型就是够着函数的prototype属性,通常将其称为原型属性,原型就是 实例对象的 原型对象
 
+![](/assets/2016-11-30_151945.png)
 
+2.
+```
+function Person (name , age, gender) 
+{
+    this.name = name;
+    this.age = age;
+    this.geder = gender;
+}
+//Person.prototype是一个对象,可以点新建方法
+Person.prototype.sayHello = function() 
+{
+    console.log("你好,我是"+ this.name);
+}
+Person.prototype.run= function()
+{
+     console.log("你好,我是"+ this.age);
+}
+
+```
