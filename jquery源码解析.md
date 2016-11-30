@@ -160,3 +160,5 @@ construct:Person,
 4. _proto_
 
 和prototype是否存在关系
+
+早期浏览器是不支持_proto_,火狐率先使用该属性,但是是非标准,基本的浏览器都支持,ie8是不支持的
