@@ -31,6 +31,4 @@ var p2 = new Person("李梅");
 
 p1.sayHello();
 p2.sayHello();
-
-
 ```
