@@ -157,4 +157,4 @@ Person.prototype = {
 
 construct:Person,
 
-
+4. 简单的扩展
