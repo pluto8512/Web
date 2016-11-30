@@ -12,3 +12,4 @@ syntaxerror:语法错误
 解决办法:调试异常,异常捕获
 1. try-catch
 2. try-catch-finallly
+如果我们做了异常的捕获的处理,会继续执行后面其他的代码
