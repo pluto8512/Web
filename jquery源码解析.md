@@ -118,7 +118,7 @@ foo.sayHello();
 ![](/assets/2016-11-30_151945.png)
 
 2.
-```
+```javascript
 function Person (name , age, gender) 
 {
     this.name = name;
@@ -134,5 +134,5 @@ Person.prototype.run= function()
 {
      console.log("你好,我是"+ this.age);
 }
-
+var p1 = new Person("李磊",19."男");
 ```
