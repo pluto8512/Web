@@ -135,4 +135,6 @@ Person.prototype.run= function()
      console.log("你好,我是"+ this.age);
 }
 var p1 = new Person("李磊",19."男");
+p1.sayHello();
+p1.run();
 ```
