@@ -158,3 +158,5 @@ Person.prototype = {
 construct:Person,
 
 4. _proto_
+
+和prototype是否存在关系
