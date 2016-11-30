@@ -3,5 +3,6 @@
 ####异常
 代码在执行的过程中出现的错误    
 异常出现以后,其后的代码不在执行
-凡是异常错误就会出现Uncaught
-syntaxerror
+凡是错误就会出现Uncaught
+syntaxerror:语法错误
+
