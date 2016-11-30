@@ -16,9 +16,21 @@ syntaxerror:语法错误
 
 如果我们做了异常的捕获的处理,会继续执行后面其他的代码
 
-自定义异常
-```
-function tag(tagName){
-return document.getEkementsByTagName(tagName);
+####原型
+
+```javascript
+function Person (name) {
+    this.name = name;
+    this.sayHello = function(){
+        console.log("你是,我是"+this.name);
+    }
 }
+
+var p1 = new Person("李磊");
+var p2 = new Person("李梅");
+
+p1.sayHello();
+p2.sayHello();
+
+
 ```
