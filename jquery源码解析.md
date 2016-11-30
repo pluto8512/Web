@@ -15,3 +15,9 @@ syntaxerror:语法错误
 2. try-catch-finallly
 
 如果我们做了异常的捕获的处理,会继续执行后面其他的代码
+
+自定义异常
+```
+function tag(tagName){
+return document.getEkementsByTagName(tagName);}
+```
