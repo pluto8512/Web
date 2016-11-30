@@ -150,3 +150,5 @@ Person.prototype = {
 ```
 
 3. 这两种做法之间有什么区别?
+使用替换原型对象的时候要手动添加construct属性
+construct:Person,
