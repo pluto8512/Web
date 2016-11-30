@@ -102,5 +102,5 @@ Foo.prototype.sayHello = function()
 var foo = new Foo();
 foo.sayHello();
 ```
-
+自带的原型对象,每个函数都有指向原型对象的属性
 
