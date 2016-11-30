@@ -34,7 +34,58 @@ p1.sayHello();
 p2.sayHello();
 ```
 > 存在的问题
+
 ```javascript
 console.log(p1.sayHello == p2.sayHello);//返回false
 ```
+
 >说明每个对象都有一个独立的sayHello的方法,而sayHell这个方法是完全相同的,所以造成了内存的浪费
+
+```javascript
+var sayHello = function()
+{
+    console.log("你是,我是"+this.name);
+};
+function Person (name)
+{
+     this.name = name;
+     this.sayHello = sayHello;
+}
+var p1 = new Person("李磊");
+var p2 = new Person("李梅");
+
+p1.sayHello();
+p2.sayHello();
+
+console.log(p1.sayHello == p2.sayHello);//返回true
+
+```
+
+>一个对象可能有N多方法,所有的方法都暴露在全局作用域下,与外部库冲突的几率就会变大,所以不宜采取该方法
+
+>解决办法:将所有的方法放到一个对象中
+
+```javascript
+var Tool (name) = {
+    this.name = name;
+    this.sayHello = function(name){
+         console.log("你是,我是"+this.name);
+    }
+}
+
+function Person (name)
+{
+ this.name = name;
+ var tool = new Tool(name);
+ this.sayHello = tool.sayHello;
+}
+
+var p1 = new Person("李磊");
+var p2 = new Person("李梅");
+
+p1.sayHello();
+p2.sayHello();
+
+console.log(p1.sayHello == p2.sayHello);//返回true
+
+```
