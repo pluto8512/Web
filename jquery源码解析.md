@@ -33,3 +33,8 @@ var p2 = new Person("李梅");
 p1.sayHello();
 p2.sayHello();
 ```
+> 存在的问题
+```javascript
+console.log(p1.sayHello == p2.sayHello);//返回false
+```
+>说明每个对象都有一个独立的sayHello的方法,而sayHell这个方法是完全相同的,所以造成了内存的浪费
