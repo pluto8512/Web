@@ -138,3 +138,13 @@ var p1 = new Person("李磊",19."男");
 p1.sayHello();
 p1.run();
 ```
+
+```javascript
+//让Person.protorype 指向另一个对象
+Person.prototype= {
+    Person.prototype.sayHello = function() 
+    {
+        console.log("你好,我是"+ this.name);
+    }
+};
+```
