@@ -140,7 +140,7 @@ p1.run();
 ```
 
 ```javascript
-//让Person.protorype 指向另一个对象
+//让Person.protorype 指向另一个对象(替换了原型对象)
 Person.prototype = {
     Person.prototype.sayHello = function() 
     {
