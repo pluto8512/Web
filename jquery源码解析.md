@@ -19,7 +19,8 @@ syntaxerror:语法错误
 ####原型
 
 ```javascript
-function Person (name) {
+function Person (name) 
+{
     this.name = name;
     this.sayHello = function(){
         console.log("你是,我是"+this.name);
