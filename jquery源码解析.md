@@ -91,12 +91,15 @@ console.log(p1.sayHello == p2.sayHello);//返回true
 >最好的解决方法
 
 ```javascript
-function Foo() {
-    Foo.prototype.sayHello = function() 
-    {
-        console.log("js高级");
-    };
-    var p = new  Foo();
-    p.sayHello();
+function Foo() 
+{
+    
 }
+Foo.prototype.sayHello = function()
+{
+    console.log("js高级");
+};
+var foo = new Foo();
+foo.sayHello();
 ```
+
