@@ -128,7 +128,7 @@ function Person (name , age, gender)
 //Person.prototype是一个对象,可以点新建方法
 Person.prototype.sayHello = function() 
 {
-    console.log("你好,我是"+ this.name);
+     console.log("你好,我是"+ this.name);
 }
 Person.prototype.run= function()
 {
