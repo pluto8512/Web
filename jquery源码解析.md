@@ -146,10 +146,11 @@ function _mix_(obj,obj1) {
  }
 }
 
-var o1 = {};
-var o2 = {};
+var o1 = {"name":"xiaoming"};
+var o2 = {"name":"xiaofang","age":12};
 _mix_(o1,o2);
 
+console.log(o1); //name: xioafang ; age: 12;
 ```
 
 ####继承
