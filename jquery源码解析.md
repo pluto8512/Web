@@ -152,6 +152,15 @@ var o2 = {"name":"xiaofang","age":12};
 _mix_(o1,o2);
 
 console.log(o1); //name: xioafang ; age: 12;
+
+//对混入进行升级
+var o = {
+ _mix_ : function (obj) {
+  for ( var k in obj) {
+   this[k] = obj[k];
+  }
+ }
+}
 ```
 
 ####继承
