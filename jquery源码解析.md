@@ -112,6 +112,25 @@ foo.sayHello();
 
 >独有的数据和独有的行为应该放在对象中
 
+####利用对象修改原型对象属性
+
+1. 修改原型对象里面的属性值会怎么样?
+
+```javascript 
+function Person() {
+}
+Person.prototypy.name = "xiaodong";
+var p = new Person();
+console.log(p.name); //xioaodong 
+p.name = "xiaofang ";
+console.log(p); //xiaofang
+
+var p1 = new Person();
+console.log(p1.name); //xiaodong
+
+p._poto_.name = "xiaolan";
+console.log(p); //xiaolan 
+```
 ####继承
 1. 针对构造函数而言,原型就是够着函数的prototype属性,通常将其称为原型属性,原型就是 实例对象的 原型对象
 
