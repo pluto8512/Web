@@ -172,8 +172,8 @@ var o = {
      this[k] = arguments[i][k];
    }
   }
+ }
 }
-
 ```
 
 ####继承
