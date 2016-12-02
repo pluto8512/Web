@@ -139,6 +139,7 @@ console.log(p2 .name); //xiaolan
 var o1 = {name:"xiaofang" };
 var o2 = {};
 o2.name = o1.name;//最简单的混入,也是一种继承的方式
+//这样o2 就有了name 属性
 
 //封装
 function _mix_(obj,obj1) {
