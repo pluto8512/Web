@@ -154,13 +154,14 @@ _mix_(o1,o2);
 console.log(o1); //name: xioafang ; age: 12;
 
 //对混入进行升级
+//可以带多个参数,将所有对象的成员都加到this当前对象上
 var o = {
- _mix_ : function (obj) {
+ extend: function (obj) {
   for ( var k in obj) {
    this[k] = obj[k];
   }
  }
-}
+};
 ```
 
 ####继承
