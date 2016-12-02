@@ -162,6 +162,17 @@ var o = {
   }
  }
 };
+
+//在函数中有一个默认的对象存在即argument
+//混入的扩展
+var o = function (obj) {
+ for (var i=0;i<arguments.length,i++){
+  for (var k in arguments[i]) {
+    this[k] = arguments[i][k];
+  }
+ }
+}
+
 ```
 
 ####继承
