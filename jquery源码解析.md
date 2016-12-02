@@ -123,14 +123,17 @@ Person.prototypy.name = "xiaodong";
 var p = new Person();
 console.log(p.name); //xioaodong 
 p.name = "xiaofang ";
-console.log(p); //xiaofang
+console.log(p); //xiaofang,对比可以看出p.name不会更改原型中的属性
 
 var p1 = new Person();
 console.log(p1.name); //xiaodong
 
-p._poto_.name = "xiaolan";
-console.log(p); //xiaolan 
+var p2 = new Person();
+p2 ._proto_.name = "xiaolan";
+console.log(p2 .name); //xiaolan 
 ```
+####混入(实现继承常用的方法之一)
+
 ####继承
 1. 针对构造函数而言,原型就是够着函数的prototype属性,通常将其称为原型属性,原型就是 实例对象的 原型对象
 
