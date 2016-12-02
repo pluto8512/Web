@@ -140,7 +140,7 @@ var o1 = {name:"xiaofang" };
 var o2 = {};
 o2.name = o1.name;//最简单的混入,也是一种继承的方式
 
-//封住
+//封装
 function _mix_(obj,obj1) {
  for(var k in obj1) {
   abj[k] = obj1[k];
