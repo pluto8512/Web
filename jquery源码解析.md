@@ -134,12 +134,13 @@ console.log(p2 .name); //xiaolan
 ```
 ####混入(实现继承常用的方法之一)
 
-```
-混入(mix)
+```javascript
+//混入(mix)
 var o1 = {name:"xiaofang" };
 var o2 = {};
 o2.name = o1.name;//最简单的混入,也是一种继承的方式
 
+//封住
 function _mix_(obj,obj1) {
  for(var k in obj1) {
   abj[k] = obj1[k];
