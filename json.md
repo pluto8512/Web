@@ -20,3 +20,9 @@ var o2 = (new Function("return " + data))();
 // JSON.parse();
 var o3 = JSON.parse(data);// 要求字符串必须是严格的json格式
 ```
+
+```javascript
+// eval 函数
+var s = "{}";
+var o = eval(s); 
+```
