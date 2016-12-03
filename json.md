@@ -3,7 +3,7 @@
 
 ```javascript
 //转换json格式的字符串为对象
-var data = "[{"name": "张三","age": 19,"gander": "男"}]";
+var data = "[{"name": "张三","age": 19,"gander": "男"},{"name": "张四","age": 18,"gander": "女"}]";
 // json 格式(严格,国际化了)
 // json有两种结构
 // 1: {}
