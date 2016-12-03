@@ -39,4 +39,14 @@ var o2 = eval(s2); //报错
 //解决方法
 //两端加圆括号就可以了
 //{}被eval解释成代码块的含义
+//标记语言,标记后面加冒号,就证明加了标记
+label123:
+while (true) {
+   console.log("第一层循环开始");
+   while (true) {
+      console.log("第二层循环开始");
+      break label123;
+   }
+}
+console.log("over");
 ```
