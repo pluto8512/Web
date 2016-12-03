@@ -3,5 +3,5 @@
 
 ```javascript
 //转换json格式的字符串为对象
-var data = "[{name: "张三",age: 19,gander: "男"}]"
+var data = "[{name: "张三",age: 19,gander: "男"}]";
 ```
