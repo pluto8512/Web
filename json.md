@@ -17,6 +17,6 @@ var o1 = eval("("+data+")"); //注意一个习惯,两端加上圆括号,对结�
 // 2. Function
 var o2 = (new Function("return " + data))();
 // 3. 使用es5中标准的处理json的语法
-//JSON.parse();
+// JSON.parse();
 var o3 = JSON.parse(data);
 ```
