@@ -24,5 +24,12 @@ var o3 = JSON.parse(data);// 要求字符串必须是严格的json格式
 ```javascript
 // eval 函数
 var s = "{}";
-var o = eval(s); 
+var o = eval(s); //没有任何结果
+
+var s2 = "{name: "张三"}";
+var o2 = eval(s2); //没有得到对象,得到张三
+
+var s3 = "{name: "张三",age: 19}";
+var o3 = eval(s3); //报错:逗号出现语法错误
+
 ```
