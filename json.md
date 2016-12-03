@@ -3,7 +3,7 @@
 
 ```javascript
 //转换json格式的字符串为对象
-var data = "[{name: "张三",age: 19,gander: "男"}]";
+var data = "[{"name": "张三","age": 19,"gander": "男"}]";
 // json 格式(严格,国际化了)
 // json有两种结构
 // 1: {}
@@ -18,4 +18,5 @@ var o1 = eval("("+data+")"); //注意一个习惯,两端加上圆括号,对结�
 var o2 = (new Function("return " + data))();
 // 3. 使用es5中标准的处理json的语法
 //JSON.parse();
+var o3 = JSON.parse(data);
 ```
