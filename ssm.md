@@ -24,4 +24,6 @@
 
 6. 新建jsp文件
 
+7. 如果缺少source文件夹,就选中项目右键,biuld path --> new source floder
+
 
