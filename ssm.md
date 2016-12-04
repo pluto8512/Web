@@ -5,7 +5,7 @@
 
 作用:就是初始化组件
 
-基于:Model2实现的技术框架:jsp+servlet+javaBean
+基于Model2实现的技术框架:jsp+servlet+javaBean
 
 
 
