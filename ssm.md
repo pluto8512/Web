@@ -7,6 +7,8 @@
 
 基于Model2实现的技术框架:jsp+servlet+javaBean
 
+底成的机制:MVC
+
 
 
 
