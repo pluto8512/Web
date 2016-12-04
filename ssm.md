@@ -21,3 +21,5 @@
 4. 导入spring配置文件pom.xml
 
 5. web-inf 中的web.xml文件中配置spring相关信息
+
+6.新建jsp文件
