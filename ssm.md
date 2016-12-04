@@ -12,10 +12,11 @@
 环境搭建好以后
 
 登录的小案例:
-new --> Maven Project --> next --> maven-archetype-webapp --> 配置id
+1. new --> Maven Project --> next --> maven-archetype-webapp --> 配置id
 
-引入Tomcat: 项目名 --> biuld path --> add library --> server  runtime --> tomcat
+2. 引入Tomcat: 项目名 --> biuld path --> add library --> server  runtime --> tomcat
 
+3. 引入spring相关的maven依赖
 
 
 
