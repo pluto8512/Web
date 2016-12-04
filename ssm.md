@@ -14,5 +14,8 @@
 登录的小案例:
 new --> Maven Project --> next --> maven-archetype-webapp --> 配置id
 
+引入Tomcat: 项目名 --> biuld path --> add library --> server  runtime --> tomcat
+
+
 
 
