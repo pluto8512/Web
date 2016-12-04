@@ -18,6 +18,6 @@
 
 3. 引入spring相关的maven依赖
 
-4. 导入spring配置文件
+4. 导入spring配置文件pom.xml
 
 
