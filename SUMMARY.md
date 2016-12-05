@@ -18,6 +18,7 @@
     * [预解析](预解析.md)
     * [作用域链](作用域链.md)
     * [闭包](闭包.md)
+    * [jQuery源码分析](jquery源码分析.md)
 * [ssm](ssm.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
