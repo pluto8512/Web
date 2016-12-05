@@ -16,6 +16,7 @@
     * [json](json.md)
     * [预解析](预解析.md)
     * [闭包](闭包.md)
+    * [作用域](作用域.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
     * [html,css布局经验](htmlcss布局经验.md)
