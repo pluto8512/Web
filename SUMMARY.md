@@ -17,6 +17,7 @@
     * [预解析](预解析.md)
     * [闭包](闭包.md)
     * [作用域](作用域.md)
+* [ssm](ssm.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
     * [html,css布局经验](htmlcss布局经验.md)
@@ -27,5 +28,4 @@
     * [background-size](background-size.md)
     * jQuery对象做不到,Dom对象能做的事
     * [js"=="的应用](js的应用.md)
-* [ssm](ssm.md)
 
