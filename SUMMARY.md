@@ -19,7 +19,6 @@
     * [作用域链](作用域链.md)
     * [闭包](闭包.md)
     * [jQuery源码分析](jquery源码分析.md)
-* [ssm](ssm.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
     * [html,css布局经验](htmlcss布局经验.md)
@@ -28,6 +27,7 @@
         * [切图](切图.md)
     * [编写代码的坑](编写代码的坑.md)
     * [background-size](background-size.md)
-    * jQuery对象做不到,Dom对象能做的事
+    * [jQuery对象做不到,Dom对象能做的事](jquery对象做不到dom对象能做的事.md)
     * [js"=="的应用](js的应用.md)
+    * [ssm框架学习](ssm.md)
 
