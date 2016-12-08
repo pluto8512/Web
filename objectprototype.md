@@ -1,6 +1,7 @@
 #Object.prototype成员
 
 ```javascript 
+///////////////hasOwnPrototype////////////////
 function Person () {
    this.name = "jim";
 }
