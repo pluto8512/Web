@@ -19,7 +19,7 @@
     * [作用域链](作用域链.md)
     * [闭包](闭包.md)
     * [函数的四种调用模式](函数的四种调用模式.md)
-    * [Object.prototype](objectprototype.md)
+    * [js的一些高级方法](objectprototype.md)
     * [jQuery源码分析](jquery源码分析.md)
     * [垃圾收集](垃圾收集.md)
 * [附录](附录.md)

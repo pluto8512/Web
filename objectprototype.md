@@ -25,3 +25,6 @@ var p = new Person();
 console.log( Person.prototype.isPrototypeOf( p ) );
 //////////////////END//////////////////
 ```
+
+#包装类型
+Number Boolean String 
