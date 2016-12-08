@@ -1,7 +1,7 @@
 #Object.prototype成员
 
 ```javascript 
-///////////////hasOwnPrototype////////////////
+//////////////hasOwnPrototype//////////
 function Person () {
    this.name = "jim";
 }
@@ -11,4 +11,16 @@ var p = new Person();
 console.log(p.hasOwnPrototype("name"));
 // p是否含有age属性
 console.log(p.hasOwnPrototype("age"));
+//////////////////END//////////////////
+
+//////////////isPrototypeOf////////////
+function Person () {
+   this.name = "jim";
+}
+Person.prototype.age = 19;
+var p = new Person();
+
+//p是不是 
+console.log(Person.prototype.isPrototypeOf( Person.prototype));
+//////////////////END//////////////////
 ```
