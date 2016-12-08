@@ -14,6 +14,7 @@ console.log(p.hasOwnPrototype("age"));
 //////////////////END//////////////////
 
 //////////////isPrototypeOf////////////
+//isPrototypeOf方法用于测试一个对象是否存在于另一个对象的原型链上。
 function Person () {
    this.name = "jim";
 }
@@ -22,6 +23,5 @@ var p = new Person();
 
 //p是不是 
 console.log( Person.prototype.isPrototypeOf( p ) );
-
 //////////////////END//////////////////
 ```
