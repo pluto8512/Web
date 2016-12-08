@@ -21,6 +21,7 @@ Person.prototype.age = 19;
 var p = new Person();
 
 //p是不是 
-console.log( p.isPrototypeOf( Person.prototype ) );
+console.log( Person.prototype.isPrototypeOf( p ) );
+
 //////////////////END//////////////////
 ```
