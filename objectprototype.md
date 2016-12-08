@@ -61,3 +61,5 @@ var o = (function () {
 	o.num = 33;
 	console.log( o.num );
 ```
+
+#ES5中数组引入的常用方法
