@@ -34,4 +34,5 @@
     * [jQuery对象做不到,Dom对象能做的事](jquery对象做不到dom对象能做的事.md)
     * [js"=="的应用](js的应用.md)
     * [ssm框架学习](ssm.md)
+    * [AngularJS报错集锦](angularjs报错集锦.md)
 
