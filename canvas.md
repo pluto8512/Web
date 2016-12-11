@@ -71,7 +71,7 @@ canvas在进行绘制线条的时候,如果线宽只要是奇数值都会去做�
 ###虚线
 - ctx.setLineDash(数组)
 - ctx.getLineDash()
-- ctx.lineDashOffset = 值
+- ctx.lineDashOffset = 值 : 初始位置的偏移量
 
 ```javascript
 //绘制水平的虚线
