@@ -16,6 +16,7 @@
 //canvas.getContext('2d') 就返回一个在当前页面上绘图的工具集
 //这个工具集专门绘制平面图形,里面有很多方法
 //<canvas width="600" height="400"></canvas>
+//从页面获取canvas的DOM元素
 //开始绘图
 var ctx = cas.getContext('2d');
 
