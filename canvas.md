@@ -16,5 +16,11 @@
 //canvas.getContext('2d') 就返回一个在当前页面上绘图的工具集
 //这个工具集专门绘制平面图形,里面有很多方法
 //<canvas width="600" height="400"></canvas>
+//开始绘图
+var ctx = cas.getContext('2d');
 
+ctx.moveTo(100, 100);//描点
+ctx.lineTo(200, 200);//描点
+
+ctx.stroke();//描边绘图
 ```
