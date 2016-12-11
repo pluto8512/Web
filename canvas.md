@@ -101,4 +101,6 @@ for (var i = 0; i < rows ; i++){
       ctx.lineTo( j * width + width, i * width );
    }
 }
+
+ctx.stroke();
 ```
