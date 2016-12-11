@@ -31,5 +31,16 @@ ctx.stroke();//描边绘图
 
 ###canvas绘制虚线
 ```javascript
+<body>
+<canvas id="canvas"></canvas>
+<script>
+		var cas = document.getElementById("canvas");
+		var ctx = cas.getContext('2d');
 
+ctx.moveTo(100, 100);//描绘图的起始点
+ctx.lineTo(200, 200);//描点直线的终点
+
+ctx.stroke();//描边绘图
+</script>
+</body>
 ```
