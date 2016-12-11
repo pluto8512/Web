@@ -72,3 +72,12 @@ canvas在进行绘制线条的时候,如果线宽只要是奇数值都会去做�
 - ctx.setLineDash(数组)
 - ctx.getLineDash()
 - ctx.lineDashOffset = 值
+
+```javascript
+//绘制水平的虚线
+ctx.moveTo(100,100);
+ctx,lineTo(400,100);
+
+ctx.setLineDash([10,5,5]);
+ctx.stroke();
+```
