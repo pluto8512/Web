@@ -11,5 +11,7 @@
 ###入门
 ```javascript
 //默认宽高 300*150
-<canvas></canvas>
+//不要css来设置
+<canvas width="600" height="400"></canvas>
+
 ```
