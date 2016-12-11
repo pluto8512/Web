@@ -85,3 +85,5 @@ ctx.stroke();
 ###给线设置颜色
 - ctx.strokeStyle = 'rgb(0,255,0)'; 设置描边的颜色
 - ctx.fillStyle = 'rgb(0,255,0)'; 设置填充的颜色
+
+###绘制坐标网格
