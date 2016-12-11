@@ -28,6 +28,8 @@ ctx.stroke();//描边绘图
 
 ###canvas的直角坐标系
 ![](/assets/1.bmp)
+
+###canvas绘制虚线
 ```javascript
 
 ```
