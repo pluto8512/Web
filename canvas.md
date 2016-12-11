@@ -54,9 +54,11 @@ ctx.stroke();//连点描边
 ###闭合路径
 
 - closePath(): 将绘图的起点和终点连接起来
-- closePath与lineto直接闭合的区别:
+- closePath与lineto直接闭合的区别:closePath是完美闭合
 
 ###线宽的问题
 lineWidth()
 
 canvas在进行绘制线条的时候,如果线宽只要是奇数值都会去做取消锯齿的操作
+
+###路径
