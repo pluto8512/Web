@@ -87,3 +87,18 @@ ctx.stroke();
 - ctx.fillStyle = 'rgb(0,255,0)'; 设置填充的颜色
 
 ###绘制坐标网格
+```javascript
+var width = 10;
+var rows =  cas.height / width;
+var cols =  cas.width / width;
+
+for (var i = 0; i < rows ; i++){
+   for (var j = 0 ; j < cols; j++) {
+      
+      ctx.moveTo( j * width, ( i + 1 ) * width );
+      ctx.lineTo( j * width + width, ( i + 1 ) * width );
+      // 开始绘制竖着的
+      ctx.lineTo( j * width + width, i * width );
+   }
+}
+```
