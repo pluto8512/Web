@@ -25,3 +25,9 @@ ctx.lineTo(200, 200);//描点
 
 ctx.stroke();//描边绘图
 ```
+
+###canvas的直角坐标系
+![](/assets/1.bmp)
+```javascript
+
+```
