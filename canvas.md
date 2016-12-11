@@ -104,3 +104,6 @@ for (var i = 0; i < rows ; i++){
 
 ctx.stroke();
 ```
+
+###绘制坐标系
+见demo
