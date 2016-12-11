@@ -63,3 +63,12 @@ canvas在进行绘制线条的时候,如果线宽只要是奇数值都会去做�
 
 ###路径
 - 状态: 在需要改变颜色绘制方法,改变颜色,绘制方法,改变一些属性...就需要改变绘图状态.使用beginPath()方法.开启一个新的路径.不会影响其他的路径
+
+###线型相关的属性
+- lineCap(): 线帽 
+- lineJoin(): 两线相交的处理 
+
+###虚线
+- ctx.setLineDash(数组)
+- ctx.getLineDash()
+- ctx.lineDashOffset = 值
