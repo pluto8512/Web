@@ -40,7 +40,7 @@ ctx.stroke();//描边绘图
 ctx.moveTo(100, 100);//描绘图的起始点
 ctx.lineTo(200, 200);//描点直线的终点
 
-ctx.stroke();//描边绘图
+ctx.stroke();//连点描边
 </script>
 </body>
 ```
