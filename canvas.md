@@ -69,8 +69,8 @@ canvas在进行绘制线条的时候,如果线宽只要是奇数值都会去做�
 - lineJoin(): 两线相交的处理 
 
 ###虚线
-- ctx.setLineDash(数组)
-- ctx.getLineDash()
+- ctx.setLineDash(数组);
+- ctx.getLineDash(); : 获取虚线的数组
 - ctx.lineDashOffset = 值 : 初始位置的偏移量
 
 ```javascript
