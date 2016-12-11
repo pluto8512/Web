@@ -15,6 +15,6 @@
 //canvas只能展示画图的内容,不能绘图,每一个canvas都有一套工具,利用工具可以在cancas上进行绘图
 //canvas.getContext('2d') 就返回一个在当前页面上绘图的工具集
 //这个工具集专门绘制平面图形,里面有很多方法
-<canvas width="600" height="400"></canvas>
+//<canvas width="600" height="400"></canvas>
 
 ```
