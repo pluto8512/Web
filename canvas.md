@@ -53,7 +53,8 @@ ctx.stroke();//连点描边
 
 ###闭合路径
 
-closePath(): 将绘图的起点和终点连接起来
+- closePath(): 将绘图的起点和终点连接起来
+- closePath与lineto直接闭合的区别:
 
 ###线宽的问题
 lineWidth()
