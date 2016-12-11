@@ -53,4 +53,4 @@ ctx.stroke();//连点描边
 
 ###闭合路径
 
-closePath()
+closePath(): 将绘图的起点和终点连接起来
