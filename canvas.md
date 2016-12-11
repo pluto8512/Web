@@ -81,3 +81,7 @@ ctx,lineTo(400,100);
 ctx.setLineDash([10,5,5,5,6,7,8,9]);
 ctx.stroke();
 ```
+
+###给线设置颜色
+- ctx.strokeStyle 设置描边的颜色
+- ctx.fillStyle 设置填充的颜色
