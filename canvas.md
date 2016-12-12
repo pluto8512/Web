@@ -141,3 +141,4 @@ crx.clearRect(100,400,200,100);//清除矩形区域
     - r是圆的半径
     - startAngle 圆弧开始的角度
     - endAngle 圆弧结束的角度
+    - clockwise true按顺时针方向挥绘制,反之,亦然
