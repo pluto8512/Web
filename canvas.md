@@ -136,4 +136,6 @@ crx.clearRect(100,400,200,100);//清除矩形区域
 ###圆弧
 
 - ctx.arc(x,y,r,startAngle,endAngle,clockwise);
-  + ctx.arc(cas.width/2,cas.height/2, 100);
+  + ctx.arc(cas.width/2,cas.height/2, 100,0,2*Math.PI);
+    - x,y是圆心坐标
+    - r是圆的半径
