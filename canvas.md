@@ -142,3 +142,19 @@ crx.clearRect(100,400,200,100);//清除矩形区域
     - startAngle 圆弧开始的角度
     - endAngle 圆弧结束的角度
     - clockwise true按顺时针方向挥绘制,反之,亦然
+
+###动态画圆
+```javascript
+var timer=setIntercal(function(){
+a++;
+if(a>=270){
+   clearInterval(timer);
+   a=270;
+}   
+
+ctx.moveTo(cas.width/2,cas.height/2);
+ctx.arc(cas.width/2,cas.height/2,100,toRadian(-90),
+toRadian(a)
+);
+},15);
+```
