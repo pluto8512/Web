@@ -131,5 +131,6 @@ ctx.strokeRect(100,140,200,100);
 ctx.fillRect(100,400,200,100);
 
 //4
-crx.clearRect();//清除矩形区域
+crx.clearRect(100,400,200,100);//清除矩形区域
 ```
+
