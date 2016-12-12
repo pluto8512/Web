@@ -136,3 +136,4 @@ crx.clearRect(100,400,200,100);//清除矩形区域
 ###圆弧
 
 - ctx.arc(x,y,r,startAngle,endAngle,clockwise);
+  + ctx.arc(cas.width/2,cas.height/2, 100);
