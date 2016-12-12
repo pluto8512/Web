@@ -119,6 +119,8 @@ ctx.stroke();
 ```javascript
 //矩形
 ctx.rect(x,y,w,h);
+ctx.strokeRect(x,y,w,h);
+
 
 
 ```
