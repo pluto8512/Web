@@ -128,5 +128,5 @@ ctx.stroke();//或者用 ctx.fill
 ctx.strokeRect(100,140,200,100);
 
 //3
-ctx.fillRect(100,400,200,100)
+ctx.fillRect(100,400,200,100);
 ```
