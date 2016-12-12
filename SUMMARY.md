@@ -24,6 +24,7 @@
     * [jQuery源码分析](jquery源码分析.md)
     * [垃圾收集](垃圾收集.md)
 * [canvas](canvas.md)
+    * [自适应](自适应.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
     * [html,css布局经验](htmlcss布局经验.md)
