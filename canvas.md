@@ -139,3 +139,5 @@ crx.clearRect(100,400,200,100);//清除矩形区域
   + ctx.arc(cas.width/2,cas.height/2, 100,0,2*Math.PI);
     - x,y是圆心坐标
     - r是圆的半径
+    - startAngle 圆弧开始的角度
+    - endAngle 圆弧结束的角度
