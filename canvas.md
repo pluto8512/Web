@@ -118,9 +118,10 @@ ctx.stroke();
 ###绘制矩形
 ```javascript
 //矩形
-ctx.rect(x,y,w,h);
-ctx.strokeRect(x,y,w,h);
+//ctx.rect(x,y,w,h);
+//ctx.strokeRect(x,y,w,h);
 
-
+ctx.rect(100,50,200,200);
+ctx.stroke();
 
 ```
