@@ -121,7 +121,12 @@ ctx.stroke();
 //ctx.rect(x,y,w,h);
 //ctx.strokeRect(x,y,w,h);
 
-ctx.rect(100,50,200,200);
-ctx.stroke();
+ctx.rect(100,50,200,100);
+ctx.stroke();//或者用 ctx.fill
 
+//2
+ctx.stroneRect(100,140,200,100);
+
+//3
+ctx.fillRect(100,400,200,100)
 ```
