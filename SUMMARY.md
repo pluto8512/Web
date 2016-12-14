@@ -26,7 +26,7 @@
 * [canvas](canvas.md)
     * [自适应](自适应.md)
     * [canvas的特点](canvas的特点.md)
-* 算法
+* [算法](算法.md)
     * [冒泡排序](冒泡排序.md)
 * [附录](附录.md)
     * [Gitbook安装简介](gitbook安装简介.md)
