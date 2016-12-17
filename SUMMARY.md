@@ -40,4 +40,5 @@
     * [js"=="的应用](js的应用.md)
     * [ssm框架学习](ssm.md)
     * [AngularJS报错集锦](angularjs报错集锦.md)
+    * [优先级](优先级.md)
 
