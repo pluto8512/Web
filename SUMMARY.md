@@ -41,4 +41,5 @@
     * [ssm框架学习](ssm.md)
     * [AngularJS报错集锦](angularjs报错集锦.md)
     * [优先级](优先级.md)
+    * [apply\/call回调数组方法](apply回调数组方法.md)
 
