@@ -37,7 +37,7 @@
     * [编写代码的坑](编写代码的坑.md)
     * [background-size](background-size.md)
     * [jQuery对象做不到,Dom对象能做的事](jquery对象做不到dom对象能做的事.md)
-    * [js"=="的应用](js的应用.md)
+    * [js"=="与"==="的应用](js的应用.md)
     * [ssm框架学习](ssm.md)
     * [AngularJS报错集锦](angularjs报错集锦.md)
     * [优先级](优先级.md)
