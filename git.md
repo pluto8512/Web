@@ -7,3 +7,6 @@
 1. 配置用户名: git config user.name "testName"
 2. 配置邮箱: git config user.email "test@sina.com"
 3. 查看配置好的用户信息： git config --list
+
+###提交代码
+git add ./xxx.xxx
