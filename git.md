@@ -57,4 +57,5 @@ git reflog (ps: 结合版本回退就可以方便的回退到之前的任意一�
 2. https链接
 3. 上传代码到git服务器： git push https链接 master
 4. 填写github的账号密码
+5. ginthub项目里点击注释，可以比较前后两个版本
 关键词： fatal：提交失败
