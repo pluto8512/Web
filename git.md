@@ -2,6 +2,7 @@
 1. 在项目的根目录初始化一个仓库： git init
 2. 查看项目目录： ls
 3. 查看隐藏的.git目录： ls -a
+> .git文件夹就是本地仓库
 
 ###配置用户信息
 1. 配置用户名: git config user.name "testName"
