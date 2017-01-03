@@ -23,5 +23,5 @@ add commite合并: git commit -a -m "合并提交"
 2. 添加要忽略的文件当前目录下的路径： /xxx.xxx
 
 ###查看日志 比对文件差异
-查看日志： git log
+查看日志： git log （简洁形式：git log --oneline）
 比对文件差异：git diff 版本号1 版本号2 文件路径
