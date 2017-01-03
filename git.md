@@ -3,7 +3,7 @@
 2. 查看项目目录： ls
 3. 查看隐藏的.git目录： ls -a
 > .git文件夹就是本地仓库
-  正确的提交方式是先pull再push,防止提交不上
+  正确的提交方式是先pull再push,防止远端有文件而本地没有该文件而提交不上
 
 ###配置用户信息
 1. 配置用户名: git config user.name "testName"
