@@ -44,5 +44,6 @@ git reflog (ps: 结合版本回退就可以方便的回退到之前的任意一�
 3. 切换分支： git checkout xxx
 4. 切换到主分支再合并： git merge xxx
 5. 然后push到github，合并完成
+6. 删除分支： git branch -d xxx
 
 ![](/assets/git的分支操作.png)
