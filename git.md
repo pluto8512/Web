@@ -51,3 +51,10 @@ git reflog (ps: 结合版本回退就可以方便的回退到之前的任意一�
 ###冲突处理
 关键词： conflict
 手动删除冲突的代码再次提交
+
+###github
+1. new repository
+2. https链接
+3. 上传代码到git服务器： git push https链接 master
+4. 填写github的账号密码
+关键词： fatal：提交失败
