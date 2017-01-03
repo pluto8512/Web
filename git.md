@@ -37,3 +37,9 @@ add commite合并: git commit -a -m "合并提交"
 git reflog (ps: 结合版本回退就可以方便的回退到之前的任意一个版本)
 
 > head指向哪个版本，该版本就是你上次提交的版本，也就是你将在上面修改代码的版本
+
+###分支
+1. 创建分支： git branch xxx
+2. 查看现在所有分支： git branch
+3. 切换分支： git checkout xxx
+4. 切换到主分支再合并： git merge xxx
