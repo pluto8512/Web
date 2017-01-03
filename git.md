@@ -9,4 +9,6 @@
 3. 查看配置好的用户信息： git config --list
 
 ###提交代码
-git add ./xxx.xxx
+1. 从当前目录add: git add ./xxx.xxx
+2. commit到本地仓库: git commit -m "我们写的代码"
+3. 检查有没有需要提交的代码: git status
