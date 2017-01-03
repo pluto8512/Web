@@ -2,6 +2,7 @@
 1. 在项目的根目录初始化一个仓库： git init
 2. 查看项目目录： ls
 3. 查看隐藏的.git目录： ls -a
+
 > .git文件夹就是本地仓库
   正确的提交方式是先pull再push,防止远端有文件而本地没有该文件而提交不上
 
@@ -30,4 +31,5 @@ add commite合并: git commit -a -m "合并提交"
 
 ###版本回退
 1. 回退到上次提交：git reset --hard Head （上上次提交 git reset --hard Head~1）
+
 > head指向哪个版本，该版本就是你上次提交的版本，也就是你将在上面修改代码的版本
