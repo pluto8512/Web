@@ -15,7 +15,7 @@
 关键词： modified->修改 （ps:红色表示没有提交到暂存区 绿色表示没有提交到仓库）
 working directory clean 工作目录干净的 不需要提交的
 
-*. 添加当前目录下修改或添加的的所有文件到暂存区add: git add . 
+> 添加当前目录下修改或添加的的所有文件到暂存区add: git add . 
 add commite合并: git commit -a -m "合并提交" 
 
 ###设置提交时忽略的文件
@@ -23,5 +23,7 @@ add commite合并: git commit -a -m "合并提交"
 2. 添加要忽略的文件当前目录下的路径： /xxx.xxx
 
 ###查看日志 比对文件差异
-查看日志： git log （简洁形式：git log --oneline）
-比对文件差异：git diff 版本号1 版本号2 文件路径
+1. 查看日志： git log （简洁形式：git log --oneline）
+2. 比对文件差异：git diff 版本号1 版本号2 被比对的文件路径
+
+###版本回退
