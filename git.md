@@ -40,6 +40,8 @@ git reflog (ps: 结合版本回退就可以方便的回退到之前的任意一�
 
 ###分支
 1. 创建分支： git branch xxx
-2. 查看现在所有分支： git branch
+2. 查看现在所有分支，星号标记的是当前所在的分支： git branch
 3. 切换分支： git checkout xxx
 4. 切换到主分支再合并： git merge xxx
+
+![](/assets/git的分支操作.png)
