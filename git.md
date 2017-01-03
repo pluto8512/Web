@@ -17,3 +17,7 @@ working directory clean 工作目录干净的 不需要提交的
 
 *. 添加当前目录下修改或添加的的所有文件到暂存区add: git add . 
 add commite合并: git commit -a -m "合并提交" 
+
+###设置提交时忽略的文件
+1. 创建.gitignore文件
+2. 添加要忽略的文件当前目录下的路径： /xxx.xxx
