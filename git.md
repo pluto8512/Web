@@ -47,3 +47,7 @@ git reflog (ps: 结合版本回退就可以方便的回退到之前的任意一�
 6. 删除分支： git branch -d xxx
 
 ![](/assets/git的分支操作.png)
+
+###冲突处理
+关键词： conflict
+手动删除冲突的代码再次提交
