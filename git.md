@@ -28,3 +28,4 @@ add commite合并: git commit -a -m "合并提交"
 2. 比对文件差异：git diff 版本号1 版本号2 被比对的文件路径
 
 ###版本回退
+1. 回退到上次提交：git reset --hard Head （上上次提交 git reset --hard Head~1）
