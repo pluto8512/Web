@@ -10,8 +10,10 @@
 
 ###提交代码
 1. 从当前目录add: git add ./xxx.xxx
-*. 添加当前目录下修改或添加的的所有文件到暂存区add: git add . 
 2. commit到本地仓库: git commit -m "我们写的代码"
 3. 检查有没有需要提交的代码: git status
 关键词： modified->修改 （ps:红色表示没有提交到暂存区 绿色表示没有提交到仓库）
 working directory clean 工作目录干净的 不需要提交的
+
+*. 添加当前目录下修改或添加的的所有文件到暂存区add: git add . 
+add commite合并: git commit -a -m "合并提交" 
