@@ -54,4 +54,6 @@
     * [通过package.json来下载第三方包](通过packagejson来下载第三方包.md)
     * [安装指定版本的第三方包](安装指定版本的第三方包.md)
     * [移除第三方包](移除第三方包.md)
+* [browser](browser.md)
+    * [browser作用](browser作用.md)
 
