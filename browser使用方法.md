@@ -7,3 +7,6 @@
 ###browser异步刷新css样式
 1. 添加监视： `browser-sync start --server --files "./xxx.html,./xxx.css"`
 2. 异步加载外联css样式： 点击按钮才出现的样式就可以异步修改了
+
+###browser浏览器兼容性测试
+1. 同时打开多个浏览器
