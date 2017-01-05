@@ -50,5 +50,6 @@
 * [npm](npm.md)
     * [安装](安装.md)
     * [初始化](初始化.md)
-    * npm安装第三方包
+    * [npm安装第三方包](npm安装第三方包.md)
+    * [通过package.json来下载第三方包](通过packagejson来下载第三方包.md)
 
