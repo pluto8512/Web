@@ -7,3 +7,5 @@
 6. 切换分支： git checkout gh-pages
 5. 提交到服务器： git push [服务器地址] [分支]
 6. 浏览网页： windy330.github.io/[仓库的名字]/[具体的页面]  
+
+![](/assets/搭站.png)![](/assets/搭站2.png)
