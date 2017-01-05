@@ -43,7 +43,9 @@
     * [优先级](优先级.md)
     * [apply\/call回调数组方法](apply回调数组方法.md)
 * [Git](git.md)
+    * [git的基本命令](git的基本命令.md)
     * [ssh](ssh.md)
     * [多人开发](多人开发.md)
     * [github个人博客搭建](github个人博客搭建.md)
+* [npm](npm.md)
 
