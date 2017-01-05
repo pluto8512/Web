@@ -55,6 +55,6 @@
     * [安装指定版本的第三方包](安装指定版本的第三方包.md)
     * [移除第三方包](移除第三方包.md)
 * [browsersync](browser.md)
-    * [browsersync作用安装](browser作用.md)
+    * [browsersync作用安装转淘宝镜像](browser作用.md)
     * [browsersync使用方法](browser使用方法.md)
 
