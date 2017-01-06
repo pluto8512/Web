@@ -1,5 +1,5 @@
 ### gulp的使用方法
-在gulpfile.js里面写代码： 
+1. 在gulpfile.js里面写'搬运'代码： 
 ```javascript
 // 得到gulp对象
 var gulp = require('gulp');
@@ -11,6 +11,7 @@ gulp.task('script',function(){
    //指定输出的**目录**   
 });
 ```
-6. 使用gulp : gulp [任务名]
-
+2. 在gulpfile.js里面写'搬运压缩'代码：
+2. 使用gulp : gulp [任务名]
 ![](/assets/gulp命令执行.png)
+3. 
