@@ -69,7 +69,7 @@
     * [gulp作用](gulp作用.md)
     * [gulp的5个方法](gulp的5个方法.md)
     * [gulp安装](gulp安装.md)
-    * [gulp的使用方法](使用gulp.md)
+    * [gulp进行压缩](使用gulp.md)
     * [gulp的插件](gulp的插件.md)
     * [gulp监视](gulp监视.md)
 
