@@ -1,4 +1,5 @@
 ### gulp的使用方法
++ 首先下载插件
 + 在gulpfile.js里面写'搬运'代码： 
 
 ```javascript
