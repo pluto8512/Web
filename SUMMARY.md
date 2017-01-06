@@ -28,6 +28,7 @@
     * [jQuery选择器](jquery选择器.md)
     * [jq创建节点](创建节点.md)
     * [jq插入删除移动清空克隆替换元素](插入元素.md)
+    * [jq属性操作](jq的属性操作.md)
 * [canvas](canvas.md)
     * [自适应](自适应.md)
     * [canvas的特点](canvas的特点.md)
