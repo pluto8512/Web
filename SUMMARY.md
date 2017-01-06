@@ -25,6 +25,7 @@
     * [垃圾收集](垃圾收集.md)
     * [文档加载完后执行](文档加载完后执行.md)
     * [jQuery对象装dom对象](jquery对象装dom对象.md)
+    * [jQuery选择器](jquery选择器.md)
 * [canvas](canvas.md)
     * [自适应](自适应.md)
     * [canvas的特点](canvas的特点.md)
