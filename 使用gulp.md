@@ -28,5 +28,22 @@ gulp.task('script',function(){
     //指定输出的目录
 });
 ```
++ 在gulpfile.js里面写'搬运合并压缩'代码：
+
+```javascript
+var gulp = require('gulp');
+// 引入gulp-uglify代码压缩插件
+var uglify = require('gulp-uglify');
+
+// 新建任务
+gulp.task('script',function(){
+    //匹配
+    gulp.src('./js/index.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('./js/dist'));
+    //指定输出的目录
+});
+```
+
 + 使用gulp : gulp [任务名]
 ![](/assets/gulp命令执行.png)
