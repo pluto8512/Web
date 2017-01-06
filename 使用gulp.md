@@ -64,6 +64,5 @@ gulp.task('script',function(){
 });
 ```
 
-
 + 使用gulp : gulp [任务名]
 ![](/assets/gulp命令执行.png)
