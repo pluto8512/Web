@@ -47,22 +47,7 @@ gulp.task('script',function(){
 });
 ```
 + 在gulpfile.js里面写'搬运压缩html'代码：
-
-```javascript
-var gulp = require('gulp');
-// 引入gulp-uglify代码压缩插件
-var uglify = require('gulp-uglify');
-
-// 新建任务
-gulp.task('script',function(){
-    //匹配
-    gulp.src('./index.html')
-        .pipe(concat('./js/index.js'))
-        .pipe(uglify())
-        .pipe(gulp.dest('./js/dist'));
-    //指定输出的目录
-});
-```
+html压缩比较复杂，具体代码看文档
 
 + 使用gulp : gulp [任务名]
 ![](/assets/gulp命令执行.png)
