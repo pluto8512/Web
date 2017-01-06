@@ -65,4 +65,5 @@
     * [gulp作用](gulp作用.md)
     * [gulp的5个方法](gulp的5个方法.md)
     * [gulp安装](gulp安装.md)
+    * [cnpm下下来的包中快捷方式的作用](cnpm下下来的包中快捷方式的作用.md)
 
