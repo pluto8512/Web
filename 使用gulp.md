@@ -28,6 +28,5 @@ gulp.task('script',function(){
     //指定输出的目录
 });
 ```
-2. 使用gulp : gulp [任务名]
+3. 使用gulp : gulp [任务名]
 ![](/assets/gulp命令执行.png)
-3. 
