@@ -1,2 +1,2 @@
 ###gulp安装
-1. npm install gulp-cli -g
+1. 安装命令： npm install gulp-cli -g
