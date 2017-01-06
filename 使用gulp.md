@@ -12,7 +12,7 @@ gulp.task('script',function(){
    //指定输出的**目录**   
 });
 ```
-+ 在gulpfile.js里面写'搬运压缩'代码：
++ 在gulpfile.js里面写'搬运压缩js'代码：
 
 ```javascript
 var gulp = require('gulp');
@@ -28,7 +28,7 @@ gulp.task('script',function(){
     //指定输出的目录
 });
 ```
-+ 在gulpfile.js里面写'搬运合并压缩'代码：
++ 在gulpfile.js里面写'搬运合并压缩js'代码：
 
 ```javascript
 var gulp = require('gulp');
