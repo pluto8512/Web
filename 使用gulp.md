@@ -56,7 +56,7 @@ var uglify = require('gulp-uglify');
 // 新建任务
 gulp.task('script',function(){
     //匹配
-    gulp.src(['./js/1.js','./js/2.js'])
+    gulp.src('./index.html')
         .pipe(concat('./js/index.js'))
         .pipe(uglify())
         .pipe(gulp.dest('./js/dist'));
