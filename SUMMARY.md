@@ -23,6 +23,7 @@
     * [正则](正则.md)
     * [jQuery源码分析](jquery源码分析.md)
     * [垃圾收集](垃圾收集.md)
+    * [文档加载完后执行](文档加载完后执行.md)
     * [jQuery对象装dom对象](jquery对象装dom对象.md)
 * [canvas](canvas.md)
     * [自适应](自适应.md)
