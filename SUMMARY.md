@@ -63,4 +63,5 @@
     * [解决webstorm不兼容browersync](解决webstorm不兼容browersync.md)
 * [gulp](gulp.md)
     * [gulp作用](gulp作用.md)
+    * [gulp的5个方法](gulp的5个方法.md)
 
