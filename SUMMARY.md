@@ -55,6 +55,7 @@
     * [github个人博客搭建](github个人博客搭建.md)
 * [npm](npm.md)
     * [安装转淘宝镜像](安装.md)
+    * [cnpm下下来的包中快捷方式的作用](cnpm下下来的包中快捷方式的作用.md)
     * [初始化](初始化.md)
     * [npm安装第三方包](npm安装第三方包.md)
     * [通过package.json来下载第三方包](通过packagejson来下载第三方包.md)
@@ -68,5 +69,5 @@
     * [gulp作用](gulp作用.md)
     * [gulp的5个方法](gulp的5个方法.md)
     * [gulp安装](gulp安装.md)
-    * [cnpm下下来的包中快捷方式的作用](cnpm下下来的包中快捷方式的作用.md)
+    * 使用gulp
 
