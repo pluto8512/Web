@@ -3,6 +3,7 @@
 * [本书简介](README.md)
 * [DOM原生操作方法](dom原生操作方法.md)
 * [兼容处理](兼容处理.md)
+    * [addEventListener](addactionlistener.md)
 * [web移动开发](web移动开发.md)
     * [移动开发第一天](移动开发第一天.md)
     * [移动端事件](移动端事件.md)
