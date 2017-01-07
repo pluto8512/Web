@@ -4,3 +4,4 @@
 3. 尾部追加dom元素： `appendChild` (没有兼容问题) 
 4. 头部追加dom元素： `parentDiv.insertBefore([插入的元素a], [参考的元素b]);`在子元素b前插入子元素a (没有兼容问题)
 5. 删除dom元素： child.parentNode.removeChild(child) （没有兼容问题）
+6. 添加事件监听： addEventListener
