@@ -74,5 +74,6 @@
     * [gulp安装](gulp安装.md)
     * [gulp进行压缩](使用gulp.md)
     * [gulp的插件](gulp的插件.md)
-* 兼容处理
+* ajax
+    * [jquery的ajax](jquery的ajax.md)
 
