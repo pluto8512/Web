@@ -6,3 +6,4 @@
 5. 删除dom元素： `child.parentNode.removeChild(child)` （没有兼容问题）
 6. 添加事件监听： `addEventListener("click",function(){})` (兼容问题)
 7. 目前的最佳实践，是将JavaScript脚本文件都放在页面底部加载。这样的话，其实document.ready方法（jQuery简写为$(function)）已经不必要了，因为等到运行的时候，DOM对象已经生成了。
+8.为dom元素添加一个class： `document.body.className = 'hasJS';`
