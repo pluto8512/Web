@@ -1,6 +1,7 @@
 # Summary
 
 * [本书简介](README.md)
+* [DOM原生操作方法](dom原生操作方法.md)
 * [web移动开发](web移动开发.md)
     * [移动开发第一天](移动开发第一天.md)
     * [移动端事件](移动端事件.md)
@@ -73,8 +74,5 @@
     * [gulp的插件](gulp的插件.md)
 * Angular
     * [angular中如何操作dom](angular中如何操作dom.md)
-* [测试](手机测试.md)
-    * [服务器配置](服务器配置.md)
-    * ajax测试数据的创建
 * DOM原生操作方法
 
