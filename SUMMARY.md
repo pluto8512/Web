@@ -2,6 +2,7 @@
 
 * [本书简介](README.md)
 * [DOM原生操作方法](dom原生操作方法.md)
+* [兼容处理](兼容处理.md)
 * [web移动开发](web移动开发.md)
     * [移动开发第一天](移动开发第一天.md)
     * [移动端事件](移动端事件.md)
@@ -72,6 +73,5 @@
     * [gulp安装](gulp安装.md)
     * [gulp进行压缩](使用gulp.md)
     * [gulp的插件](gulp的插件.md)
-* Angular
-    * [angular中如何操作dom](angular中如何操作dom.md)
+* 兼容处理
 
