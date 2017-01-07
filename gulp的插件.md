@@ -4,3 +4,5 @@
 2. css压缩： gulp-cssnano
 3. html压缩： gulp-htmlmin
 ![](/assets/gulp插件.png)
+4. 雪碧图： spriter
+5. 图片压缩：imgmin
