@@ -74,5 +74,4 @@
     * [gulp的插件](gulp的插件.md)
 * Angular
     * [angular中如何操作dom](angular中如何操作dom.md)
-* DOM原生操作方法
 
