@@ -76,4 +76,7 @@
     * [gulp的插件](gulp的插件.md)
 * ajax
     * [jquery的ajax](jquery的ajax.md)
+* [Angular](angular.md)
+    * [angular模拟jQuery的方法](angular调用jquery的方法.md)
+    * [angular面向对象](angular面向对象.md)
 
