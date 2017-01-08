@@ -5,14 +5,9 @@
 <h1>学习ng的第三个小demo!</h1>
 <div class="ddemo01"  ng-controller="ngdom">
     <i></i> demo01
+</div>
 
-</div>
-<div class="ddemo02">
-</div>
-<div class="ddemo03">
-</div>
-<div class="ddemo04">
-</div>
+
 
 <!--js B!-->
 <script src="./lib/node_modules/angular/angular.js"></script>
