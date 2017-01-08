@@ -21,5 +21,3 @@
 1. 打开命令行，cd到`C:\Users\tutumissed\GitBook\Library\windy330\web`
 2. 执行命令：`gitbook serve`
 3. 在`C:\Users\tutumissed\GitBook\Library\windy330\web`目录下会生成-book文件夹，里面是生成好的html的静态文件
-3. 效果： 
-
