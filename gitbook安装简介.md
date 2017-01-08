@@ -16,3 +16,5 @@
 12.切换到GitHub页面里面新建Repository项目详情的settings页面add Webhooks,plyLoad里面填地址B
 ![](/assets/8.bmp)
 13.绑定完成
+
+###GitBook导出简介
