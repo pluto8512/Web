@@ -39,7 +39,6 @@
     * [冒泡排序](冒泡排序.md)
 * [附录](附录.md)
     * [Gitbook安装导出简介](gitbook安装简介.md)
-    * [git导出简介](git导出简介.md)
     * [html,css布局经验](htmlcss布局经验.md)
     * [工作实用组件](工作实用组件.md)
     * [ps的切图和微调](ps的切图和微调.md)
@@ -51,7 +50,6 @@
     * [ssm框架学习](ssm.md)
     * [AngularJS报错集锦](angularjs报错集锦.md)
     * [优先级](优先级.md)
-    * git导出简介
 * [Git](git.md)
     * [git的基本命令](git的基本命令.md)
     * [ssh](ssh.md)
