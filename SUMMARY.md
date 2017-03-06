@@ -80,6 +80,4 @@
   * [angular面向对象](angular面向对象.md)
 * [subway](subway.md)
   * [subway实现原理](subway实现原理.md)
-* [兼容](.md)
-  * [indexOf](.md/indexof.md)
 
