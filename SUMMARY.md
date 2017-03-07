@@ -50,6 +50,7 @@
   * [ssm框架学习](ssm.md)
   * [AngularJS报错集锦](angularjs报错集锦.md)
   * [优先级](优先级.md)
+  * [IntelliJ IDEA 15快捷键](intellij-idea-15.md)
 * [Git](git.md)
   * [git的基本命令](git的基本命令.md)
   * [ssh](ssh.md)
@@ -78,6 +79,7 @@
 * [Angular](angular.md)
   * [angular模拟jQuery的方法](angular调用jquery的方法.md)
   * [angular面向对象](angular面向对象.md)
-* [subway](subway.md)
-  * [subway实现原理](subway实现原理.md)
+* html5
+* [cssa3](cssa3.md)
+  * 风扇旋转
 
