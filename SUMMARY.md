@@ -81,6 +81,7 @@
   * [angular面向对象](angular面向对象.md)
 * [html5](html5.md)
   * [rem](html5/rem.md)
+  * 检查参数的方法
 * [cssa3](cssa3.md)
   * 风扇旋转
 
