@@ -84,4 +84,6 @@
   * 检查参数的方法
 * [cssa3](cssa3.md)
   * 风扇旋转
+* threejs
+  * [定义渲染器](ding-yi-xuan-ran-qi.md)
 
