@@ -90,4 +90,6 @@
   * [透视相机的参数解析](tou-shi-xiang-ji-de-can-shu-jie-xi.md)
   * [视景体](shi-jing-ti.md)
   * [坐标系](zuo-biao-xi.md)
+* 有娱
+  * [pc端自定义背景图片](pcduan-zi-ding-yi-bei-jing-tu-pian.md)
 
