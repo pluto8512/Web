@@ -92,4 +92,5 @@
   * [坐标系](zuo-biao-xi.md)
 * 有娱
   * [pc端自定义背景图片](pcduan-zi-ding-yi-bei-jing-tu-pian.md)
+  * [pc端自定义游戏界面的模板](pcduan-zi-ding-yi-you-xi-jie-mian-de-mo-ban.md)
 
