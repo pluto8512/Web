@@ -41,6 +41,7 @@ function biultImgO(i,img) {
     imgOW = img.width;
     imgOH = img.height;
     $(slecEle).attr("src" , img.src) ;
+    //TODO ...
 }
 ```
 
