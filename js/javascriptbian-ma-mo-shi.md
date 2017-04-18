@@ -19,7 +19,7 @@ window.overVar = {};
 overVar .myInitGame();
 ```
 
-3 图片缓存
+3 动态请求图片
 
 ```js
 // 当image对象的src被赋值的时候，就开始请求图片
