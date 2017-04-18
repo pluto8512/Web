@@ -26,11 +26,11 @@ var prizeImgs = ['http://www.xxx.xx.png','http://www.xxx.yy.png']
 for(var i=0;i<prizeImgs.length; i++) {
 
     var img = new Image();
-    (function(i , img ,countLi){
+    (function(i , img ){
         img.onload = function(){
             biultImgO(i,img,countLi);
         };
-    })(i , img ,countLi);
+    })(i , img);
     img.src = prizeImgs[i];
 }
 ```
