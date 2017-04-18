@@ -12,7 +12,7 @@ window.overVar = {};
     overVar .myInitGame = function() {
         var localVar = true;
     };
-})();
+});
 ```
 
 ```js
