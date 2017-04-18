@@ -19,5 +19,21 @@ window.overVar = {};
 overVar .myInitGame();
 ```
 
+3 图片缓存
+
+```js
+var prizeImgs = ['http://www.xxx.xx.png']
+for(var i=0;i<prizeImgs.length; i++) {
+				
+	var img = new Image();
+	(function(i , img ,countLi){
+		img.onload = function(){
+			biultImgO(i,img,countLi);
+		};
+	})(i , img ,countLi);
+	img.src = prizeImgs[i];
+}
+```
+
 
 
