@@ -10,7 +10,7 @@ window.overVar = {};
 ;(function() {
     var cacheVar = true;
     overVar .myInitGame = function() {
-        var localVar = true;
+        var localVar = cacheVar.xx;
     };
 });
 ```
