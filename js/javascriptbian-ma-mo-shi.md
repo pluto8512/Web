@@ -43,6 +43,7 @@ function biultImgO(i,img) {
     $(slecEle).attr("src" , img.src) ;
     //TODO ...
 }
+main();
 ```
 
 
