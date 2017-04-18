@@ -5,13 +5,16 @@
 2
 
 ```js
-
 window.classics_bargain = {};
 
 ;function() {
     var localVar = true;
     classics_bargain.myInitGame = function() {};
 }
+```
+
+```js
+classics_bargain.myInitGame();
 ```
 
 
