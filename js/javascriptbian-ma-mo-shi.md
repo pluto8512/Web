@@ -35,8 +35,9 @@ function main() {
         img.src = prizeImgs[i];
     }
 }
-function biultImgO() {
-    
+// 拿到请求到的图片后对图片进行处理
+function biultImgO(i,img) {
+
 }
 ```
 
