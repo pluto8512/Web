@@ -10,5 +10,7 @@
 
 ![](/assets/utf-8.png)4 打开fiddler，然后按图示操作\(分别填写：请求地址和刚刚写的hasHelped.json\)
 
-![](/assets/fiddler.png)
+![](/assets/fiddler.png)5 请求地址
+
+![](/assets/adress.png)6  点击save
 
