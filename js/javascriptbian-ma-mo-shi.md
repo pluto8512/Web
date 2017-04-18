@@ -37,7 +37,10 @@ function main() {
 }
 // 拿到请求到的图片后对图片进行处理
 function biultImgO(i,img) {
-
+    // 获取图片的宽高
+    imgOW = img.width;
+    imgOH = img.height;
+    $(slecEle).attr("src" , img.src) ;
 }
 ```
 
