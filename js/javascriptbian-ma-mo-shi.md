@@ -28,14 +28,14 @@ function main() {
         var img = new Image();
         (function(i , img ){
             img.onload = function(){
-                biultImgO(i,img,countLi);
+                biultImgO(i,img);
             };
         })(i , img);
         img.src = prizeImgs[i];
     }
 }
 function biultImgO() {
-    
+
 }
 ```
 
