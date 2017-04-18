@@ -5,7 +5,7 @@
 2
 
 ```js
-window.classics_bargain = {};
+window.overVar = {};
 
 ;function() {
     var localVar = true;
