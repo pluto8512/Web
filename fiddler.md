@@ -6,7 +6,9 @@
 
 ![](/assets/zhantie.png)
 
-3.另存为utf-8的格式
+3 另存为utf-8的格式
 
-![](/assets/utf-8.png)
+![](/assets/utf-8.png)4 打开fiddler，然后按图示操作\(分别填写：请求地址和刚刚写的hasHelped.json\)
+
+![](/assets/fiddler.png)
 
