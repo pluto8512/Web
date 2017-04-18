@@ -8,9 +8,9 @@
 window.overVar = {};
 
 ;function() {
-    var localVar = true;
+    var cacheVar = true;
     classics_bargain.myInitGame = function() {
-        
+
     };
 }
 ```
