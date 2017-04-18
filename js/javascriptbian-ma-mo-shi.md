@@ -16,7 +16,7 @@ window.overVar = {};
 ```
 
 ```js
-classics_bargain.myInitGame();
+overVar .myInitGame();
 ```
 
 
