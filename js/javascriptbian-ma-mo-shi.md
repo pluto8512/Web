@@ -22,6 +22,7 @@ overVar .myInitGame();
 3 图片缓存
 
 ```js
+// 当image对象的src被赋值的时候，就开始请求图片
 function main() {
     var prizeImgs = ['http://www.xxx.xx.png','http://www.xxx.yy.png']
     for(var i=0;i<prizeImgs.length; i++) {
@@ -35,7 +36,7 @@ function main() {
     }
 }
 function biultImgO() {
-
+    
 }
 ```
 
