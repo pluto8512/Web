@@ -7,12 +7,12 @@
 ```js
 window.overVar = {};
 
-;function() {
+;(function() {
     var cacheVar = true;
     overVar .myInitGame = function() {
         var localVar = true;
     };
-}
+})();
 ```
 
 ```js
