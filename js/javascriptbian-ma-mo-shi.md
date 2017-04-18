@@ -9,7 +9,9 @@ window.overVar = {};
 
 ;function() {
     var localVar = true;
-    classics_bargain.myInitGame = function() {};
+    classics_bargain.myInitGame = function() {
+        
+    };
 }
 ```
 
