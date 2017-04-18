@@ -34,7 +34,9 @@ function main() {
         img.src = prizeImgs[i];
     }
 }
-
+function biultImgO() {
+    
+}
 ```
 
 
