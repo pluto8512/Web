@@ -8,6 +8,7 @@ $('.moreBtn').off('touchend').on('touchend',function(){
 $(".moreBtn").text("暂无更多助力").off('touchend');
 $(".arrow_left").hide();
 $(".arrow_left").show();
+$('.helpList_posi').append(helpListHTML);
 ```
 
 
