@@ -12,6 +12,7 @@ $('.helpList_posi').append(helpListHTML);
 $(".getprize_count_text").html('<span class="num">'+result+'</span>'+'个小伙伴已领到');
 $('.arrow_left').css('display','none');
 $('#mark span:last-child').outerWidth();
+var customObj = $.parseJSON(awardList[index-1].custom);
 // 自定义属性
 $("#helpOtherLayer #helpBargainIt img").attr("jump", true);
 var needToJump = !!$("#helpBargainIt img").attr("jump");
