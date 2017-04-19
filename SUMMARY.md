@@ -109,4 +109,5 @@
     * [eclipse常用快捷键](gong-ju/eclipse/eclipsechang-yong-kuai-jie-jian.md)
 * [Js](js.md)
   * [javascript编码模式](js/javascriptbian-ma-mo-shi.md)
+  * [JS常用API](js/jschang-yong-api.md)
 
