@@ -24,20 +24,20 @@ if(needToJump){
 $(document).on('touchend','#bargainIt',function(){//TODO});
 // ajax
 $.ajax({
-            url: '/mobile/participation/classics_bargain/bargain',
-            type: "GET",
-            dataType: "json",
-            data: {
-                "aid":params.aid,
-                "activityid":params.activityid,
-                "wuid":window.game.config.wuid,
-                "keyversion":window.game.config.keyversion,
-                "isFromApiFilter":1,
-                "awardId":currAwardId
-            },success: function(data){
-               // TODO
-            }
-        });
+    url: '/mobile/participation/classics_bargain/bargain',
+    type: "GET",
+    dataType: "json",
+    data: {
+        "aid":params.aid,
+        "activityid":params.activityid,
+        "wuid":window.game.config.wuid,
+        "keyversion":window.game.config.keyversion,
+        "isFromApiFilter":1,
+        "awardId":currAwardId
+    },success: function(data){
+       // TODO
+    }
+});
 ```
 
 
