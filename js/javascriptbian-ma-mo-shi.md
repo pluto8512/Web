@@ -46,5 +46,27 @@ function biultImgO(i,img) {
 main();
 ```
 
+4 html拼接
+
+```js
+var selectedHTML = 
+	'<div class="status" id="getLayer"> \
+	     <img id="exchangeBg" src="'+basepath+'/frame.png" alt="底层"> \
+	     <div class="realFrame"> \
+            <div class="text"> \
+                <div class="desc"> \
+                    <p>成功砍到<span id="price">￥'+formatMoneyToShowFixed2(minPrice)+'</span></p> \
+                    <p>快速领取优惠劵</p> \
+                </div> \
+            </div> \
+            <div class="act_btn" id="getIt"> \
+                <img src="'+gameCustomImg['btn-5']+'" alt=""> \
+            </div> \
+        </div> \
+	 </div>';
+$('#base_layer').html(selectedHTML);
+$('#selectedLayer').show();
+```
+
 
 
