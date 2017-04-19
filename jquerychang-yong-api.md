@@ -16,7 +16,7 @@ $('#mark span:last-child').outerWidth();
 $("#helpOtherLayer #helpBargainIt img").attr("jump", true);
 var needToJump = !!$("#helpBargainIt img").attr("jump");
 if(needToJump){
-    $(".join_play_link").trigger("touchend");
+    $(".join_play_link").trigger("touchend");//触发$(".join_play_link")的'touchend事件'
 }else{            
     HelpBargainIt();
 }
