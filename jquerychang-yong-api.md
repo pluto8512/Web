@@ -15,10 +15,12 @@ $('.arrow_left').css('display','none');
 $("#helpOtherLayer #helpBargainIt img").attr("jump", true);
 var needToJump = !!$("#helpBargainIt img").attr("jump");
 if(needToJump){
-	$(".join_play_link").trigger("touchend");
-}else{			
-	HelpBargainIt();
+    $(".join_play_link").trigger("touchend");
+}else{            
+    HelpBargainIt();
 }
+// 给动态元素绑定事件
+$(document).on('touchend','#bargainIt',function(){//TODO});
 ```
 
 
