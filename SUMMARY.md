@@ -106,6 +106,7 @@
   * [canvas基础](canvasji-chu.md)
   * [自适应](自适应.md)
   * [canvas的特点](canvas的特点.md)
+  * [绘制文字](hui-zhi-wen-zi.md)
 * [threejs](threejs.md)
   * [定义渲染器](ding-yi-xuan-ran-qi.md)
   * 长度单位
