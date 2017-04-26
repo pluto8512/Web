@@ -61,6 +61,8 @@
 * [工具](gong-ju.md)
   * [eclipse](gong-ju/eclipse.md)
     * [eclipse常用快捷键](gong-ju/eclipse/eclipsechang-yong-kuai-jie-jian.md)
+  * [vsCood](gong-ju/vscood.md)
+    * [快捷键](gong-ju/vscood/kuai-jie-jian.md)
 * [有娱](you-yu.md)
   * [pc端自定义背景图片](pcduan-zi-ding-yi-bei-jing-tu-pian.md)
   * [pc端自定义游戏界面的模板](pcduan-zi-ding-yi-you-xi-jie-mian-de-mo-ban.md)
