@@ -117,4 +117,6 @@
   * [坐标系](zuo-biao-xi.md)
 * backStage
   * [常用插件](chang-yong-cha-jian.md)
+* [Mac操作常识](maccao-zuo-chang-shi.md)
+  * [cd到桌面](maccao-zuo-chang-shi/cddao-zhuo-mian.md)
 
