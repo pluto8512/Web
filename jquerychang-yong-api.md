@@ -11,6 +11,7 @@ $(".arrow_left").show();
 $('.helpList_posi').append(helpListHTML);
 $(".getprize_count_text").html('<span class="num">'+result+'</span>'+'个小伙伴已领到');
 $('.arrow_left').css('display','none');
+$(".lightR li:nth-child(2n-1)").css("visibility","hidden");
 $('#mark span:last-child').outerWidth();
 var customObj = $.parseJSON(awardList[index-1].custom);
 // 自定义属性
