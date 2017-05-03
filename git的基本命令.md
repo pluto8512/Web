@@ -61,6 +61,8 @@ git reflog \(ps: 结合版本回退就可以方便的回退到之前的任意一
 关键词： conflict  
 手动删除冲突的代码再次提交
 
+用用图形化工具更好处理
+
 ### github
 
 1. new repository
