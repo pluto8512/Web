@@ -119,6 +119,7 @@
   * [全局状态](quan-ju-zhuang-tai.md)
   * [移动端事件](yi-dong-duan-shi-jian.md)
   * [输入框联动](shu-ru-kuang-lian-dong.md)
+  * css定位居中
 * lufyLegend
   * [css支持](csszhi-chi.md)
 
