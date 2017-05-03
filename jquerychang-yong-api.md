@@ -40,6 +40,8 @@ $.ajax({
        // TODO
     }
 });
+//输入框清空获取焦点
+$("input[name='test']").val("").focus();
 ```
 
 
