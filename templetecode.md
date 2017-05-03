@@ -1,6 +1,5 @@
 ```css
-position: absolute;
-    top: 1.6rem;
+    position: absolute;
     left: 50%;
     margin-left: -35%;
     width: 70%;
