@@ -120,6 +120,7 @@
   * [移动端事件](yi-dong-duan-shi-jian.md)
   * [输入框联动](shu-ru-kuang-lian-dong.md)
   * css定位居中
-* lufyLegend
+* [lufyLegend](lufylegend.md)
   * [css支持](csszhi-chi.md)
+  * [Box2d](box2d.md)
 
