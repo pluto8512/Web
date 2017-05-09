@@ -12,5 +12,9 @@
 
 ![](/assets/fiddler.png)5 请求地址
 
-![](/assets/adress.png)6  点击save
+![](/assets/adress.png)6. 确保配置项的勾勾上
+
+![](/assets/importss.png)
+
+7.  点击save
 
