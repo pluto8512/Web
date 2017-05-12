@@ -122,6 +122,6 @@
   * css定位居中
 * [lufyLegend](lufylegend.md)
   * [css支持](csszhi-chi.md)
-  * [Box2d](box2d.md)
+  * [Box2dWeb](box2d.md)
     * [如何声明一个关节](box2d/ru-he-sheng-ming-yi-ge-guan-jie.md)
 
