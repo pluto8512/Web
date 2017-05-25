@@ -29,3 +29,7 @@ plane.position.z = 0;
 
 ![](/assets/threejs141.png)
 
+\*y轴和z轴的位置要互换（上图）
+
+![](/assets/three就是2312.png)
+
