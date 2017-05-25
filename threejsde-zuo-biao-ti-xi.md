@@ -18,5 +18,14 @@ plane.position.y = 0;
 plane.position.z = 0;
 ```
 
+![](/assets/three就是24.png)
 
+```javascript
+plane.rotation.x = -Math.PI/4;
+plane.position.x = 0;
+plane.position.y = 0;
+plane.position.z = 0;
+```
+
+![](/assets/threejs141.png)
 
