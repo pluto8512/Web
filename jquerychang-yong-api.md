@@ -45,6 +45,11 @@ $("input[name='test']").val("").focus();
 $(".price_bar .bar").width( $("#mark").width() );
 $('#backfill_panel').css("background-image","url("+gameCustomImg['background']+")");
 //window.basepath + "clear.png"
+
+//jquery在dom元素上绑数据
+$("div").data("test", { first: 16, last: "pizza!" });
+$("div").data("test").first  //16;
+$("div").data("test").last  //pizza!;
 ```
 
 
